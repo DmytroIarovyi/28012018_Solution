@@ -1,3 +1,6 @@
+*!!! Before we start, please pay attention to project architecture.
+It's done using classical Page Object pattern with correct classes structure !!!*
+
 ## Quick setup before running tests:
 1. Chrome browser should be installed
 2. Download all files from repo locally
